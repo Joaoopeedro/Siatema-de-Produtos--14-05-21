@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.exe
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.deps.json
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.runtimeconfig.json
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.dll
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\ref\Sistemas de Produtos.dll
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\bin\Debug\net5.0\Sistemas de Produtos.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.AssemblyInfo.cs
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.dll
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\ref\Sistemas de Produtos.dll
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula 13.05.21\Sistemas de Produtos\obj\Debug\net5.0\Sistemas de Produtos.genruntimeconfig.cache
